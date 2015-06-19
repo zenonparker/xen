@@ -1,0 +1,10 @@
+# Created by Octave 3.2.4
+# name: y
+# type: matrix
+# rows: 5
+# columns: 4
+ 0 1 0 0
+ 1 0 0 0
+ 0 0 0 1
+ 0 0 0 1
+ 0 1 0 0

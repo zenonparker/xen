@@ -1,0 +1,8 @@
+# Created by Octave 3.2.4
+# name: theta
+# type: matrix
+# rows: 3
+# columns: 1
+ 0.1771166491943636
+ 0.1444089071951241
+ 0.1771166491943636

@@ -1,0 +1,59 @@
+#
+# Compiled Source
+#
+
+*.dll
+*.exe
+*.o
+*.d
+*.dd
+*.so
+
+#
+# Executable
+#
+
+*.x
+
+#
+# Packages
+#
+
+*.zip
+*.iso
+*.tar
+*.gz
+*.7z
+*.dmg
+*.rar
+*.jar
+
+#
+# Logs
+#
+
+*.log
+
+#
+# Generated
+#
+
+*.suo
+*.user
+*.sdf
+*.ipch
+*.opensdf
+*.swp
+gen-py
+gen-cpp
+*.dSYM
+
+#
+# Large Data files
+#
+numbersTheta1.txt
+numbersTheta2.txt
+numbersX.txt
+numbersY.txt
+
+
